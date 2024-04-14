@@ -1,23 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m a Principal Engineer for the Data Platform team at [FundingCircle UK](https://www.fundingcircle.com/uk/)
-- 🌱 I’m currently learning [Rust](https://www.rust-lang.org) and [Kubernetes](https://kubernetes.io/)
-- :heart: I work with [emacs](https://www.gnu.org/software/emacs/) and love [Clojure](https://clojure.org/)([Script](https://clojurescript.org/))
-- 💬 Ask me about Data Engineering, Functional programming, DevOps, and emacs
-- :mage_man: Writes Clojure, Typescript, Python, Scala, Java, Ruby, Terraform, and more
-- 📫 How to reach me: 🐦 @deepumohanp 🔑 https://keybase.io/warfox
-- 
-<!--
-**danielMosvich/danielMosvich** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m a Front End developer [danielmosvich](https://danielmosvich-portafolio.vercel.app/)
+- 🌱 I’m currently learning [Java](https://www.java.com) and [PHP](https://www.php.net/)
+- :heart: I love work with [Typescript](https://www.gnu.org/software/emacs/),  [Astro](https://clojure.org/) and [React]()
+- 💬 Ask me about front-end & UX design.
