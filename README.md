@@ -24,6 +24,13 @@
 <h2>
 	Github ⚫
 </h2>
-<img  src="https://github-readme-stats.vercel.app/api/top-langs?username=danielMosvich&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40"  width="375"  alt="0xabdulkhalid"/>
+<a href="https://github.com/danielmosvich">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=danielmosvich&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=danielmosvich&layout=compact&langs_count=8&theme=algolia&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40"/>
+</a>
 
+<!---
+<img  src="https://github-readme-stats.vercel.app/api/top-langs?username=danielMosvich&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40"  width="375"  alt="0xabdulkhalid"/>
+<img  src="![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=danielmosvich&show_icons=true&theme=dracula)"  width="375"  alt="0xabdulkhalid"/>
+-->
 
