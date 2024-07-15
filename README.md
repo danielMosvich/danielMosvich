@@ -26,7 +26,6 @@
 </h2>
 <a href="https://github.com/danielmosvich">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=danielmosvich&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40"/>
-	<hr/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=danielmosvich&layout=compact&langs_count=8&theme=algolia&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40"/>
 </a>
 
