@@ -18,7 +18,7 @@
 <h2>Skills ✨</h2>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,astro,react,next,nodejs,express,tailwind,mongodb&perline=13" />
+    <img src="https://skillicons.dev/icons?i=ts,astro,react,next,nodejs,express,supabase,tailwind,mongodb&perline=13" />
   </a>
 </p>
 <h2>
